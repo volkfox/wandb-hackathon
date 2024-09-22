@@ -1,0 +1,43 @@
+"bot": Hello!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. What can I do for you?
+"user": my monthly bill is too expensive, what can you do to change that?
+"bot": Try asking me things like 'cheap plan'
+"user": Why would I do that? I want to know if you can bring my monthly bill under 32 Euros
+"bot": I can respond to messages like  'I need a new mobile phone plan!'
+"user": Fine, I need a new mobile plan.
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": My current provider is SuperMobile, but they are far too expensive, and I am not satisfied.  What do you have for me?
+"bot": Okay. Which mobile phone plan do you have?
+"user": I have a phone plan called 'Yellow Basic 1000'.
+"bot": Sorry, I didn't get that. Please try again.
+"user": I said that I have a mobile phone plan called "YELLOW BASIC 1000"
+"bot": Sorry, I didn't get that. Please try again.
+"user": which part did you not get?
+"bot": How much did you pay in total last month?
+"user": 32.29 Euros
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": six hundred and fiftytwo minutes.
+"bot": How many text messages did you send last month?
+"user": twenty three
+"bot": How much data did you use last month?
+"user": I used one thousand fourhundred and fifty megabytes
+"bot": Do you often travel outside of Europe?
+"user": Actually, I travel to the US and Asia quite often.
+"bot": Sorry, I didn't get that. Please try again.
+"user": I said, I travel to America and Asia quite often
+"bot": Sorry, I didn't get that. Please try again.
+"user": Well, I guess the answer to that is "yes"
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 20 Euros
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a My current provider is SuperMobile, but they are far too expensive, and I am not satisfied.  What do you have for me? which part did you not get? plan. Last month, you spent 6 minutes on the phone, sent 3 messages, and used 1 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 20 €.
+"bot": Is that correct?
+"user": I am not entirely certain you understood me.  I telefoned for 652 minutes nationally, sent 23 messages, and used a total of 1450 MB.  Though you are right about me wanting to not spend more then 20 Euros.
+"bot": Sorry, I didn't get that. Please try again.
+"user": sure, why not?
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: Tele8 offers a plan called Orange Unlimited for 17 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": got anything with international calls?
+"bot": I can respond to messages like  'new plan'

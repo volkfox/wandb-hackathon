@@ -1,0 +1,36 @@
+"bot": Hi!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. How may I help you?
+"user": i need a plan that includes international calling
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": supermobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": yellow1000
+"bot": How much did you pay in total last month?
+"user": 32.29 dollars
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": occasionally yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 10-15 bucks tops
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a supermobile yellow1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than -15 €.
+"bot": Is that correct?
+"user": correct
+"bot": Sorry, I didn't get that. Please try again.
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": I couldn't find a mobile phone plan that costs less than -15 € and satisfies your needs.
+"bot": Would you like to start from the beginning again?
+"user": nno
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": no
+"bot": I'm sorry I couldn't help you. If you want to try again, you can ask me anytime. Have a nice day!
+"user": you too
+"bot": Hey!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?

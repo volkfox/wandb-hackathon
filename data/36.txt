@@ -1,0 +1,68 @@
+"bot": Hey there!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": Hi
+"bot": Hey! If you need a new mobile phone plan, try asking me things like 'I need a new mobile phone plan!'
+"user": Nice to meet you. I'm interested in a cheaper phone plan. Can you help me?
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": I think it is SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": I don't know
+"bot": Sorry, I didn't get that. Please try again.
+"user": Your Mobile Phone
+"bot": How much did you pay in total last month?
+"user": €32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652 minutes
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": less than 25 €
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a I think it is SuperMobile Your  Phone plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 25 €.
+"bot": Is that correct?
+"user": No
+"bot": Would you like to start from the beginning again?
+"user": no
+"bot": I'm sorry I couldn't help you. If you want to try again, you can ask me anytime. Have a nice day!
+"user": Hello
+"bot": Hey there! I can find a better plan for you. Let me know when you're ready!
+"user": I'm ready
+"bot": Try asking me things like 'Show me the best mobile phone plan for me'
+"user": You have the wrong plan
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": Super Mobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Sorry, I was wrong last time, I have Yello Basic 1000
+"bot": How much did you pay in total last month?
+"user": 32,29 €
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": somethimes
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": less than 25 €
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a Super Mobile Sorry, I was wrong last time, I have Yello Basic 1000  plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 25 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: BigPhone offers a plan called Green Xtra for 17 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": sounds good
+"bot": Hey there!
+"user": thanks
+"bot": Anytime!
+"user": can you print this?
+"bot": Try asking me things like 'cheap plan'

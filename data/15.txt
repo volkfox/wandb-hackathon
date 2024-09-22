@@ -1,0 +1,29 @@
+"bot": Hi!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. How may I help you?
+"user": Hi, I want to ask is there any cheap mobile plan that I can use to make international calls?
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow Basic 1000
+"bot": How much did you pay in total last month?
+"user": 32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450MB
+"bot": Do you often travel outside of Europe?
+"user": Yes, North American and Asia
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 25
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile Yellow Basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 25 €.
+"bot": Is that correct?
+"user": Yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: BigPhone offers a plan called Orange Xtra for 16 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": Thank you!
+"bot": I'm glad I could help!

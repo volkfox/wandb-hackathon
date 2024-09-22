@@ -1,0 +1,41 @@
+"bot": Hey there!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?
+"user": Hey
+"bot": Hey there! How can I help you?
+"user": my Mobile Phone Bill is way to high – what can I do?
+"bot": You can ask me things like 'Show me the best mobile phone plan for me'
+"user": shoe me the best mobile phone plan for me – NOW
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile, those fuckers
+"bot": Okay. Which mobile phone plan do you have?
+"user": that Yellow Basic 1000 crap
+"bot": How much did you pay in total last month?
+"user": 32.29 fucking €
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": only 652 minutes!
+"bot": How many text messages did you send last month?
+"user": 23 – even though i don't know why i didn't just used snapchat like every dude totay does
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": 1-2 times a year
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": 1 to 2 times per year
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": 2 times per year
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": no bitch
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": nothing more than 15
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile, those fuckers that Yellow Basic 1000 crap plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You rarely travel outside of Europe. In total, you don't want to pay more than 15 €.
+"bot": Is that correct?
+"user": hell yeah
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: SmartTalk offers a plan called Blue Unlimited for 15 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": let's do it!
+"bot": I can respond to messages like  'Show me the best mobile phone plan for me'

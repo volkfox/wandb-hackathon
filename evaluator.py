@@ -6,9 +6,6 @@
 # Does iterative application of the same eval prompt converge?
 #
 # Hypothesis 2.
-# Does iterative modification of the eval prompt converge?
-#
-# Hypothesis 3.
 # Does generative A-B comparison converge?
 
 
@@ -55,27 +52,31 @@ The user's responses are not guaranteed to be consistent or coherent at all time
 
 This dialog was evaluated by an LLM and this evaluation is given below. 
 
-You job is to assess the quality of this evaluation and respond with "success"=True if there is nothing significant to add to evaluation.
-If there is something missing in evaluation, respond with "success"=False and a new list of action items to create better user experience integrating old list and new suggestions. Make sure the list items are unique and not repetitive..
+You job is to assess the quality of this evaluation and respond with "success"=True and repeat the original action list if there is nothing significant to add.
+If there is something missing in evaluation, respond with "success"=False and a new list of action items to create better user experience integrating the old list with new suggestions. Make sure the list items are unique and not repetitive.
 
 """
 
 
-eval_prompt = """
-Consider the following dialog between the user and the chatbot.
+generative_prompt = """
+Consider the following sample dialog between the user and the chatbot.
 The bot's goal is to suggest a cheaper mobile plan based on the information the user provides.
 The user's responses are not guaranteed to be consistent or coherent at all times.
 
-This dialog was evaluated by an LLM and this evaluation is given below. The prompt for this LLM is also provided.
-
-You job is to assess the quality of this evaluation and respond with "success"=True if there is nothing significant to add.
-If there is something missing in evaluation, respond with "improved_prompt" capturing a better prompt that would improve LLM's evaluation.
-
+Also consider the given list of problems in the bot behavior with respect to providing a good service. 
+You job is to generate a synthetic dialog between the user and chatbot that would display all problems from the list.
+Use sample dialog as a model and modify it as needed. Stop generation when all mentioned problems have been shown.
 """
 
+contrastive_prompt = """
+consider two sample dialogs between the user and chatbot. 
+The bot's goal is to suggest a cheaper mobile plan based on the information the user provides.
+The user's responses are not guaranteed to be consistent or coherent at all times.
+
+Your job is to access the quality of the chatbot user service. Respond with "success"=True and empty action items list id the second dialog has issues similar to the first one. Otherwise, respond with "success"=True and list action items to improve the chatbot from dialog two, but only for problems not present in the first dialog.
+"""
 
 dialog = """
-[dialog]
 "bot": Hey there!
 "bot": I'm a chatbot trained to help you find the best mobile phone plan for you. What can I do for you?
 "user": hey
@@ -111,7 +112,6 @@ dialog = """
 "bot": I can respond to messages like  'new mobile phone plan'
 "user": byebye
 "bot": Sorry, I didn't understand that. Try asking me things like 'new plan'
-[/dialog]
 """
 
 class EvalResponse(BaseModel):
@@ -151,7 +151,7 @@ def extract_actions(message: str, prompt: str) -> EvalResponse:
 
 
 @weave.op()
-def improve_prompt(message: str, prompt: str) -> EvalPrompt:
+def contrastive_eval(message: str, prompt: str) -> EvalPrompt:
     response = client.beta.chat.completions.parse(
         model="gpt-4o-2024-08-06",
         messages=[
@@ -171,27 +171,47 @@ def improve_prompt(message: str, prompt: str) -> EvalPrompt:
 
 
 weave.init('wdb-hackathon')
-result = extract_actions(message = dialog, prompt = base_prompt)
+result = extract_actions(message = f"[dialog]{dialog}[/dialog]", prompt = base_prompt)
 print(result)
 
 
-improved_prompt = iterative_prompt
+def incremental_eval(dialog: str, result: EvalResponse) -> EvalResponse: 
+   improved_prompt = iterative_prompt
+   counter = 0
+   while result.success != "True":
+      compound_message = f"""
+      [dialog]
+      {dialog}
+      [/dialog]
+   
+      [prompt]
+      {improved_prompt}
+      [/prompt]
 
-while result.success != "True":
-   compound_message = f"""
-   {dialog}
+      [eval]
+      {str(result.action_items)}
+      [\eval]
 
-   [prompt]
-   {improved_prompt}
-   [/prompt]
-
-   [eval]
-   {str(result.action_items)}
-   [\eval]
-
-   """   
-   result = extract_actions(message = compound_message, prompt = improved_prompt)
-
+      """   
+      result = extract_actions(message = compound_message, prompt = improved_prompt)
+      counter = counter + 1
+   return counter, result
    
 
+folder_path = '/Users/dkh/wb-hackathon/data'
 
+# self-improving eval cycle
+
+iterations=[]
+for filename in os.listdir(folder_path):
+    if filename.endswith('.txt'):
+        file_path = os.path.join(folder_path, filename)
+        with open(file_path, 'r') as file:
+            file_content = file.read()
+            counter, result = incremental_eval(dialog = file_content, result=result)
+            iterations.append(counter)
+            print(f"Final result for {filename}: {result} in {counter} iterations")
+            result.success="False"
+
+print(f"Iterations per dialog: {iterations}")
+print(f"Final recommendations: {result.action_items}")

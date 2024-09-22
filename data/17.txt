@@ -1,0 +1,35 @@
+"bot": Hey!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": I need a new mobile phone plan!
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow Basic 1000
+"bot": How much did you pay in total last month?
+"user": 32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": Yes!
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": €10.00
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile Yellow Basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 10 €.
+"bot": Is that correct?
+"user": Yes!
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: Ultrafone offers a plan called Blue Xtra for 12 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": Are there alternatives? I don't like the provider Ultraphone! My friends say it is not reliable.
+"bot": Try asking me things like 'I need a new mobile phone plan!'
+"user": How much do I have to pay for Blue Xtra with my current minutes included?
+"bot": Try asking me things like 'new mobile phone plan'
+"user": You know nothing, Jon Chatbot.
+"bot": I can respond to messages like  'cheap plan'
+"user": What is your name?
+"bot": I can respond to messages like  'Show me the best mobile phone plan for me'

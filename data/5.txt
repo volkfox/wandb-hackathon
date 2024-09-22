@@ -1,0 +1,31 @@
+"bot": Hello!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. How may I help you?
+"user": Hey
+"bot": Hi! How can I help you?
+"user": i am looking for a new cheaper plan for international calls
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SmartMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow
+"bot": How much did you pay in total last month?
+"user": 25,00 EUR
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 6  hours
+"bot": How many text messages did you send last month?
+"user": 0
+"bot": How much data did you use last month?
+"user": 3 GB
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 30
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 25 € for a SmartMobile Yellow plan. Last month, you spent 6 minutes on the phone, sent 0 messages, and used 3 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 30 €.
+"bot": Is that correct?
+"user": no
+"bot": Would you like to start from the beginning again?
+"user": I want not to pay more than 15
+"bot": Sorry, I didn't get that. Please try again.
+"user": in Total i dont want to pay more than 15
+"bot": Sorry, I didn't get that. Please try again.

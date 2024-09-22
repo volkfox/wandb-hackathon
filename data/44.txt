@@ -1,0 +1,63 @@
+"bot": Hey there!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. How may I help you?
+"user": hello ass
+"bot": Hello!
+"user": i hate you
+"bot": Hey!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": you are stupid
+"bot": Hey!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?
+"user": a
+"bot": Hi! If you need a new mobile phone plan, try asking me things like 'I need a new mobile phone plan!'
+"user": b
+"bot": Hey there!
+"user": c
+"bot": Hey there! I can find a better plan for you. Let me know when you're ready!
+"user": chat bot give me the cheapest plan
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": Fuck Systems
+"bot": Okay. Which mobile phone plan do you have?
+"user": Test Plan
+"bot": Sorry, I didn't get that. Please try again.
+"user": International 100
+"bot": How much did you pay in total last month?
+"user": 999
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 60
+"bot": How many text messages did you send last month?
+"user": 5000000
+"bot": How much data did you use last month?
+"user": 10000000000000
+"bot": Do you often travel outside of Europe?
+"user": maybe
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": sometimes
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": never
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": 100
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": 10
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": yes
+"bot": Sorry, I didn't understand that.
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 1000
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 999 € for a Fuck Systems International 100 plan. Last month, you spent 60 minutes on the phone, sent 5000000 messages, and used 10000000000 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 1000 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: BigPhone offers a plan called Yellow Unlimited for 219 € per month. It comes with unlimited national calls and 50 inclusive international minutes, but without any free text messages. You would also get 5 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": bye ass
+"bot": Bye!

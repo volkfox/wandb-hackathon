@@ -1,0 +1,52 @@
+"bot": Hello!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": Hay
+"bot": Hi! I can find a better plan for you. Let me know when you're ready!
+"user": im searching a new contract
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": Super mobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": The yellow basic 1000
+"bot": How much did you pay in total last month?
+"user": too much
+"bot": Sorry, I didn't get that. Please try again.
+"user": 32,30 € to be exact
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652 minutes
+"bot": How many text messages did you send last month?
+"user": about 25
+"bot": How much data did you use last month?
+"user": 1450 mb
+"bot": Do you often travel outside of Europe?
+"user": yes very often...Asia North Americv
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": America
+"bot": Sorry, I didn't understand that.
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": if possible nothing
+"bot": Sorry, I didn't understand. Please enter a number.
+"user": What is your best offer
+"bot": Sorry, I didn't get that. Please try again.
+"user": I want the cheapest offer
+"bot": Sorry, I didn't get that. Please try again.
+"user": less than I already pay
+"bot": Sorry, I didn't understand. Please enter a number.
+"user": 30
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.3 € for a Super mobile The yellow basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 25 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 30 €.
+"bot": Is that correct?
+"user": lets say less than 25 €
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": I want to pay less than 25 €
+"bot": Sorry, I didn't get that. Please try again.
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: Tele8 offers a plan called Orange L for 19 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": Thanks man. Bye
+"bot": You're welcome!
+"bot": Hey there!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?
+"user": can I ask you something
+"bot": Try asking me things like 'cheap plan'

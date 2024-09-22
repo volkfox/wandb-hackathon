@@ -1,0 +1,38 @@
+"bot": Hi!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?
+"user": I am wondering about the charges in my mobile phone bill and want to ask whether I can switch to a cheaper plan given my current use.
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow Basic 1000
+"bot": How much did you pay in total last month?
+"user": 32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": €
+"bot": Sorry, I didn't understand that.
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450mb
+"bot": Do you often travel outside of Europe?
+"user": sometimes
+"bot": Sorry, I didn't get that.
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": €25.00
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile Yellow Basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 25 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: BigPhone offers a plan called Orange Xtra for 24 € per month. It comes with unlimited national calls and 50 inclusive international minutes, but without any free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": yes, that works for me
+"bot": Hello!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": thank you!
+"bot": Always happy to help!

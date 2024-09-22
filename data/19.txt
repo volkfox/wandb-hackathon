@@ -1,0 +1,114 @@
+"bot": Hello!
+"bot": I'm a chatbot trained to help you find the best mobile phone plan for you. What can I do for you?
+"user": I need a better mobile phone plan
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow Basic 1000
+"bot": How much did you pay in total last month?
+"user": €32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652 minutes
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": About 20 €
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile Yellow Basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 20 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: SmartTalk offers a plan called Yellow XXL for 20 € per month. It comes with unlimited national calls and 50 inclusive international minutes, but without any free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": I want another advice
+"bot": Try asking me things like 'cheap plan'
+"user": Have you got another plan with 3 GB oft high-speed data?
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": SuperMobile
+"bot": Okay. Which mobile phone plan do you have?
+"user": Yellow Basic 1000
+"bot": How much did you pay in total last month?
+"user": €32.29
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 652 minutes
+"bot": How many text messages did you send last month?
+"user": 23
+"bot": How much data did you use last month?
+"user": 1450 MB
+"bot": Do you often travel outside of Europe?
+"user": To USA and Kanada
+"bot": Sorry, I didn't understand. Please answer 'yes' or 'no'.
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 500 e
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 32.29 € for a SuperMobile Yellow Basic 1000 plan. Last month, you spent 652 minutes on the phone, sent 23 messages, and used 1.45 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 500 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: Ultrafone offers a plan called Orange XL for 168 € per month. It comes with unlimited national calls and 50 inclusive international minutes, but without any free text messages. You would also get 2 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": hallo
+"bot": Hey! How can I help you?
+"user": I want 3 GB of data in my new plan
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": Telecom
+"bot": Okay. Which mobile phone plan do you have?
+"user": Magenta 2
+"bot": How much did you pay in total last month?
+"user": €145.00
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 2222
+"bot": How many text messages did you send last month?
+"user": 543
+"bot": How much data did you use last month?
+"user": 3,54 GB
+"bot": Do you often travel outside of Europe?
+"user": yes
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": €200.00
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 145 € for a Telecom Magenta 2 plan. Last month, you spent 2222 minutes on the phone, sent 543 messages, and used 3.54 GB of data. You often travel outside of Europe. In total, you don't want to pay more than 200 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: SmartTalk offers a plan called Green XXL for 138 € per month. It comes with unlimited national calls and 50 inclusive international minutes, but without any free text messages. You would also get 5 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
+"user": I want 3 GB of data
+"bot": Hey there!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. How may I help you?
+"user": I want 3 GB of data
+"bot": Hello!
+"bot": I'm a chatbot that helps you find a new mobile phone plan. What can I do for you?
+"user": I want a plan with 30 GB of data
+"bot": Okay, let's start! First, I need some information about your current mobile phone plan:
+"bot": Who's your current mobile phone provider?
+"user": Vodaphone
+"bot": Okay. Which mobile phone plan do you have?
+"user": Privat
+"bot": How much did you pay in total last month?
+"user": €2000.00
+"bot": Got it. How many minutes have you spent on the phone last month (national calls)?
+"user": 6543
+"bot": How many text messages did you send last month?
+"user": 298
+"bot": How much data did you use last month?
+"user": 2,4 GB
+"bot": Do you often travel outside of Europe?
+"user": no
+"bot": Okay, final question: How much are you willing to spend on a mobile phone plan per month?
+"user": 500
+"bot": Thanks, here are your information again:
+"bot": Currently, you pay 2000 € for a Vodaphone Privat plan. Last month, you spent 6543 minutes on the phone, sent 298 messages, and used 2.4 GB of data. You rarely travel outside of Europe. In total, you don't want to pay more than 500 €.
+"bot": Is that correct?
+"user": yes
+"bot": Alright, I'm looking for a better plan for you now. Stay tuned!
+"bot": So, here is the best plan for you: Tele8 offers a plan called Blue L for 118 € per month. It comes with unlimited national calls, but without inclusive international minutes and free text messages. You would also get 3 GB of high-speed data!
+"bot": Sounds good? I hope I could help you find a better mobile phone plan. If you want to try again, you can ask me anytime. Have a nice day!
